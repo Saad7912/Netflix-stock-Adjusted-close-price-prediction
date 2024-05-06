@@ -1,2 +1,4 @@
 # Netflix-stock-Adjusted-close-price-prediction
-This repo hosts a linear regression model that predicts Netflix's adjusted close stock price. It includes datasets for both training and testing to ensure transparency and reproducibility.
+<br>
+ This repository contains a predictive model that forecasts the adjusted close price of Netflix's stock using linear regression. The aim is to provide a straightforward, yet effective approach to understanding stock price trends based on historical data.
+ Considering the risk of overfitting, we have strategically reduced the number of features in the model to enhance its generalization ability on unseen data.
